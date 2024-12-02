@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am [Hugues Annoye](https://huguesannoye.netlify.app/), a postdoctoral researcher in statistics at UCLouvain Saint-Louis Bruxelles wher I work on the BEAMM project (BElgian Arithmetic Microsimulation Model).
+I am [Hugues Annoye](https://huguesannoye.netlify.app/), a postdoctoral researcher in statistics at UCLouvain Saint-Louis Bruxelles where I work on the BEAMM project (BElgian Arithmetic Microsimulation Model).
 
 You can learn more about me or contact me [here](https://huguesannoye.netlify.app/).
 
